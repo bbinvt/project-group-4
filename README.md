@@ -7,6 +7,11 @@ Link to dataset: https://www.kaggle.com/datasets/thedevastator/discovering-hidde
 
 Link to data: https://sbcharitybucket.s3.us-west-2.amazonaws.com/Video_Games.csv
 
+
+## Presentation
+* <a href="https://docs.google.com/presentation/d/1tw7y1NylUlLf1n8iD6ERa7-aroHX6gr8/edit?usp=sharing&ouid=108620003158556993566&rtpof=true&sd=true">Presentation</a>
+* 
+
 ## List of Files 
 
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Data/clean_videogamesalesREAL.csv">Clean dataset</a> 
@@ -118,9 +123,6 @@ Linear regression models were used to predict global sales. The linear regressio
 Using XG Boost to predict global sales has so far provided far better results. The best results so far have been an R2 value of 0.402 i.e. 40.2% of the variance can be explained by the features. For that model, the features that were used to predict global sales were Years_On_Market, Critic_Score, User_Score, Genre, Rating and Publisher, and Platform (with the last 4 features being one-hot encoded).
 
 By creating models to predict sales for specific regions and genre of games, we were able to create high performing models with the highest performing model being the model used to predict North American action genre games (R squared score of 82.2%). 
-
-## Presentation
-* <a href="https://github.com/bbinvt/project-group-4/blob/main/Data%20Project-Group%204_final%20version.pptx">Presentation</a> 
 
 ## Dashboard & Expansion of Visualizations
 * <a href="https://github.com/bbinvt/project-group-4/blob/main/Video%20game_Tableau_projectgroup4.twbx">Dashboard</a>
